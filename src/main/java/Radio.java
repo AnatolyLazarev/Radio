@@ -3,10 +3,6 @@ public class Radio {
     private int CurrentStation;
     private int CurrentVolume;
 
-    public Radio(int CurrentVolume) {
-        this.CurrentVolume = CurrentVolume;
-    }
-
     public Radio() {
 
     }
